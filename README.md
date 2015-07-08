@@ -1,4 +1,4 @@
-==by Hugo Rodde==15/06/2008
+# Stop o processus after an elapsed time
 
 You're allowed to use this source as you want, it's free an open source !
 
